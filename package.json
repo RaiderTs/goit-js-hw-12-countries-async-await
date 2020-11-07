@@ -48,9 +48,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RaiderTs/goit-js-hw-12-countries.git"
+    "url": "git+https://github.com/RaiderTs/goit-js-hw-12-countries-async-await.git"
   },
-  "homepage": "https://github.com/RaiderTs/goit-js-hw-12-countries",
+  "homepage": "https://github.com/RaiderTs/goit-js-hw-12-countries-async-await",
   "dependencies": {
     "core-js": "^3.7.0",
     "lodash.debounce": "^4.0.8",
